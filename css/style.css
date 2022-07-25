@@ -1,0 +1,25 @@
+body {
+	background-color: #fff;
+}
+
+/* Navbar styles */
+.nav-link {
+	color: #707070 !important;
+}
+
+.slide-img-2 {
+	background-color: #feeae9 !important;
+}
+
+.slide-price-2 {
+	color: #ff136f !important;
+}
+
+.slide-button-2 {
+	background-color: #ff136f !important;
+	color: white !important;
+}
+
+.slide-button-1 {
+	color: blue !important;
+}
